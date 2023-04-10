@@ -16,3 +16,4 @@ TODO descripción del proyecto (objetivos, más tarde se detallará su funcionam
  * Guardar el contador de las veces que se ha leido la tarjeta/llavero en su propia memoria y no en la de arduino
  * Reconocer cuando el usuario esta dentro o fuera del edificio(es decir que el usuario pique al entrar y al salir)
  * Registrar la hora en la que se produce cada lectura
+ * Reproducir un sonido concreto según que usuario ha sido identificado
